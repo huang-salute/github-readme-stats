@@ -8,7 +8,7 @@ const calculateRank = require("../src/calculateRank");
 
 const stats = {
   name: "Anurag Hazra",
-  totalStars: 1000,
+  totalStars: 100,
   totalCommits: 200,
   totalIssues: 300,
   totalPRs: 400,
